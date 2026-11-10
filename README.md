@@ -36,9 +36,9 @@ Results are reported as the median and standard deviation.
 
 | Item | Value |
 | --- | --- |
-| Laptop | HP OMEN, [CPU], [RAM] |
-| OS | Windows [version] |
-| Browser | Google Chrome [version], incognito, extensions disabled |
+| Laptop | HP OMEN laptop, Intel(R) Core(TM) Ultra 5 125U (3.60 GHz), 16 GB RAM |
+| OS | Windows 11, version 26H2 |
+| Browser | Google Chrome 157.0.8103.51 (Official Build) (64-bit), incognito, extensions disabled |
 | Node.js | v24.20.0 |
 | Lighthouse | 13.6.0, mobile preset, simulated Slow 4G, 4x CPU slowdown |
 | Main libraries | React 18.3.1, React Router 6, Vite 5.4.21, Recharts 2.15.4, Tailwind CSS 3.4, styled-components 6 |
