@@ -115,8 +115,13 @@ Standard deviations are in `results/`.
 - `v1-plain/`, `v2-modules/`, `v3-tailwind/`, `v4-styled/`: the four versions
 - `setup.mjs`: installs and builds all versions
 - `measure.mjs`: runs Lighthouse repeatedly for one version
-- `results/lighthouse/`: Lighthouse reports
-- `results/raw-data.csv`: every run and reading
+- `export-test-b.mjs`: builds `results/test_b_runs.csv` from the Lighthouse reports
+- `results/lighthouse/`: Lighthouse JSON reports (5 runs per version)
+- `results/test_a_build_size_gzip.csv`: Test A, build sizes
+- `results/test_b_runs.csv`: Test B, every Lighthouse run
+- `results/test_b_summary_only.csv`: Test B, medians and standard deviations
+- `results/test_c_readings.csv`: Test C, every reading
+- `results/test_c_summary.csv`: Test C, medians and standard deviations
 - `screenshots/`: all four versions on each route
 
 ## Limitations
