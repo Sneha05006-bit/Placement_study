@@ -1,0 +1,5 @@
+version,runs,fcp_median_ms,fcp_sd_ms,lcp_median_ms,lcp_sd_ms,tbt_median_ms,tbt_sd_ms,score_median
+V1 Plain CSS,5,756,3,756,3,0,0,100
+V2 CSS Modules,5,755,4,755,4,0,0,100
+V3 Tailwind CSS,5,756,4,756,4,0,0,100
+V4 styled-components,5,605,1,605,1,0,40,100

@@ -1,0 +1,5 @@
+version,approach,js_kb,css_kb,total_kb
+V1,Plain CSS,176.39,0.60,176.99
+V2,CSS Modules,176.91,0.70,177.61
+V3,Tailwind CSS,176.88,2.27,179.15
+V4,styled-components,189.61,0,189.61
