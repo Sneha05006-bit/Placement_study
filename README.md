@@ -121,8 +121,7 @@ Standard deviations are in `results/`.
 - `results/test_b_runs.csv`: Test B, every Lighthouse run
 - `results/test_b_summary_only.csv`: Test B, medians and standard deviations
 - `results/test_c_readings.csv`: Test C, every reading
-- `results/test_c_summary.csv`: Test C, medians and standard deviations
-- `screenshots/`: all four versions on each route
+
 
 ## Limitations
 
